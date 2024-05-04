@@ -1,0 +1,13 @@
+{
+  "name": "spi-loggger",
+  "author": "Robert Wallner",
+  "pins": [
+    "CLK",
+    "MOSI",
+    "CS",
+    "DC",
+    "",
+    "GND",
+    "VCC"
+  ]
+}
